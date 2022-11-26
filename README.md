@@ -6,10 +6,15 @@
 Script rollback log interval.
 
 ## Support & Feedback
-If you still have a question after using Log Rotation, you have a few options.
-* Using support page on [Pitagon Website](https://pitagon.io).
-* Send email to [Pitagon Support Team](mailto:support@pitagon.vn) for help.
-* Connect [Travis Tran on Facebook](https://www.facebook.com/travistran1989) for real-time discussion.
-* Reporting any issue on [Github log-rotation](https://github.com/ThePitagon/log-rotation/issues) project.
+If you still have a question after using Nginx Templates, you have a few options:
+* Using support page on [Pitagon Website](https://pitagon.io/).
+* [Send email to Pitagon Support Team](mailto:support@pitagon.vn) for help.
+* Reporting any issue on [Github nginx-templates](https://github.com/ThePitagon/nginx-templates/issues/) project.
+
+Connect with author:
+* Official site: [travistran.me](https://travistran.me/) | [truongtx.com](https://truongtx.com/).
+* Facebook: [@travistran1989](https://www.facebook.com/travistran1989/).
+* Twitter: [@travistran1989](https://twitter.com/travistran1989/).
+* LinkedIn: [@travistran1989](https://www.linkedin.com/in/travistran1989/).
 
 **Pull requests are always welcome**
