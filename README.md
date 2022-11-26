@@ -1,6 +1,4 @@
-# Log Rotation
-[<img src="https://img.shields.io/twitter/follow/ThePitagon.svg?label=Follow&style=social">](https://twitter.com/ThePitagon/)
-
+# Log Rotation [<img src="https://img.shields.io/twitter/follow/ThePitagon.svg?label=Follow&style=social">](https://twitter.com/ThePitagon/)
 Script rollback log interval.
 
 ## Support & Feedback
